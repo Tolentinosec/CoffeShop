@@ -1,8 +1,8 @@
 
-☕ ### CoffeShop
+### CoffeShop
 Little Template !
 
-☕ ### About
+### About
 This template was made for me to test my knowledge. 
 I didn't think it was bad, but it could have been much better
 if you want to use it, 
