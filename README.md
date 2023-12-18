@@ -1,6 +1,6 @@
 
 ### CoffeShop
-Little Template !
+A small coffee shop project that doesn't seem to be going very well
 
 ### About
 This template was made for me to test my knowledge. 
